@@ -15,13 +15,13 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/deepakjyadav01/Student_Test_and_Result-Microservice.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd server
 ```
 
 Install dependencies
@@ -33,7 +33,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run start || node app.js || nodemon app.js
 ```
 
 - You can install postman or ARC to test API.
