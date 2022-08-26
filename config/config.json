@@ -2,9 +2,9 @@
 
   "development": {
     "PORT": 4500,
-    "MONGO_URL": "mongodb+srv://deepak2803:Deepak2803@testex.nqqk2.mongodb.net/?retryWrites=true&w=majority"
+    "MONGO_URL": "mongodb+srv://:XXXXXXXXXXXX@XXXXXXXX.nqqk2.mongodb.net/?retryWrites=true&w=majority"
   },
   "production": {
-    "MONGO_URL": "mongodb+srv://deepak2803:Deepak2803@testex.nqqk2.mongodb.net/?retryWrites=true&w=majority"
+    "MONGO_URL": "mongodb+srv://:XXXXXXXXXXXX@XXXXXXXX.nqqk2.mongodb.net/?retryWrites=true&w=majority"
   }
 }
